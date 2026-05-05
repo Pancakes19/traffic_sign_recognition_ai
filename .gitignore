@@ -1,0 +1,7 @@
+train/
+test/
+meta/
+*.h5
+*.zip
+__pycache__/
+*.pyc
